@@ -1,0 +1,79 @@
+article {
+	background-color: #DCDCDC;
+	 width: 50%;
+	 margin: auto;
+
+}
+
+p {
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+body {
+	text-align: center;
+
+}
+
+h1 {
+	padding-top: 20px;
+}
+
+.dots {
+	text-decoration: underline dotted black;
+}
+
+.my-class {
+	color: #800000;
+
+}
+
+.my-class1 {
+	color: #800000;
+	padding-left: 30px;
+
+}
+
+.my-class2 {
+	color: #800000;
+	padding-left: 60px;
+
+}
+
+
+.code {
+	width: 50%;
+	margin: auto;
+	background-color: lightgray;
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+
+}
+
+.extra1{
+	color: #48D1CC;
+	background-color: lightgray;
+}
+
+.extra2{
+	color: #48D1CC;
+	background-color: lightgray;
+}
+
+.extra3{
+	color: #48D1CC;
+	background-color: lightgray;
+}
+
+.extra4{
+	color: #48D1CC;
+	background-color: lightgray;
+}
+
+.extra5{
+	color: #48D1CC;
+	background-color: lightgray;
+}

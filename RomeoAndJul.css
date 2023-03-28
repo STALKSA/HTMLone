@@ -1,0 +1,43 @@
+
+article {
+background-color: lightgray;
+  margin: auto;
+  width: 30%;
+ padding-left: 10px;
+ 
+}
+
+div {
+	font-family: Arial;
+	text-align: left;
+
+}
+
+i {
+  font-size: 10px;
+}
+
+h1 {
+	font-size: 32px;
+  color: #6639A6;
+  text-align:center;
+  padding-top: 10px;
+  
+}
+
+h2 {
+	
+  color: gray;
+  text-transform: uppercase;
+  
+}
+
+h3 {
+	
+  color: gray;
+  
+}
+
+.no_answer {
+  padding-bottom: 10px;
+}
